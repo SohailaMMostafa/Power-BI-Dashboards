@@ -1,7 +1,7 @@
 # Ecommerce Sales Dashboard
 
 ## Overview
-This is the first Power BI dashboard I created, designed to visualize ecommerce sales data. The dashboard provides insights into total amount, profit, quantity, and average order value (AOV) with various breakdowns.
+This Power BI dashboard is designed to visualize e-commerce sales data. The dashboard provides insights into total amount, profit, quantity, and average order value (AOV) with various breakdowns.
 
 ## Features
 - **Total Metrics**: Displays Total Amount (438K), Total Profit (37K), Total Quantity (5615), and Total AOV (121K).
